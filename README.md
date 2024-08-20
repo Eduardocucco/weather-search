@@ -1,4 +1,4 @@
-<a href=''>Weather Search</a>
+<a href='https://eduardocucco.github.io/weather-search/'>Weather Search</a>
 
 ## 💻 Weather Search
 Weather Search is a simple application that provides the temperature and weather of a specific city!
